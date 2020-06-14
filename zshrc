@@ -43,3 +43,12 @@ export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+
+#olist challenge
+#export PYTHONPATH="/Users/gabrielle/code/GabriellePrat/olist:$PYTHONPATH"
+
+#Bimbo group project challenge
+export PYTHONPATH="/Users/gabrielle/code/GabriellePrat/bakery-products:$PYTHONPATH"
+
+# gcp gm key
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/gabrielle/code/GabriellePrat/gcp/le-wagon-data-grupo-bimbo-50fe0cce524a.json"
